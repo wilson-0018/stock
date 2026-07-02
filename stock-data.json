@@ -1,286 +1,323 @@
-{
-  "update_time": "2026-07-02 11:28 (北京时间)",
-  "provider": "新浪财经",
-  "stocks": {
-    "NVDA": {
-      "name": "英伟达",
-      "price": 197.58,
-      "change_pct": -1.25,
-      "open": 199.85,
-      "high": 193.45,
-      "low": 236.29,
-      "prev_close": 196.2,
-      "volume": 146147597,
-      "turnover": 156749947,
-      "pe": 6.57,
-      "ytd": null,
-      "datetime": "2026-07-02 09:46:41"
-    },
-    "AMD": {
-      "name": "AMD",
-      "price": 540.88,
-      "change_pct": -6.89,
-      "open": 564.09,
-      "high": 538.74,
-      "low": 564.09,
-      "prev_close": 557.53,
-      "volume": 28326776,
-      "turnover": 32300926,
-      "pe": 3.08,
-      "ytd": null,
-      "datetime": "2026-07-02 09:42:14"
-    },
-    "INTC": {
-      "name": "英特尔",
-      "price": 127.02,
-      "change_pct": -9.03,
-      "open": 135.74,
-      "high": 126.68,
-      "low": 142.35,
-      "prev_close": 135,
-      "volume": 113107246,
-      "turnover": 129335028,
-      "pe": -0.62,
-      "ytd": null,
-      "datetime": "2026-07-02 08:00:00"
-    },
-    "AVGO": {
-      "name": "博通",
-      "price": 369.34,
-      "change_pct": -2.23,
-      "open": 373.75,
-      "high": 368.03,
-      "low": 494.35,
-      "prev_close": 371.87,
-      "volume": 23712469,
-      "turnover": 31717326,
-      "pe": 6.19,
-      "ytd": null,
-      "datetime": "2026-07-02 09:42:49"
-    },
-    "MRVL": {
-      "name": "美满电子",
-      "price": 272.05,
-      "change_pct": -8.67,
-      "open": 292.5,
-      "high": 271.35,
-      "low": 329.88,
-      "prev_close": 282.47,
-      "volume": 33822654,
-      "turnover": 64265053,
-      "pe": 2.95,
-      "ytd": null,
-      "datetime": "2026-07-02 09:30:10"
-    },
-    "ARM": {
-      "name": "ARM控股",
-      "price": 337.47,
-      "change_pct": -4.82,
-      "open": 346.67,
-      "high": 332,
-      "low": 452.7,
-      "prev_close": 341.25,
-      "volume": 5064638,
-      "turnover": 11822885,
-      "pe": 0.85,
-      "ytd": null,
-      "datetime": "2026-07-02 07:59:50"
-    },
-    "TSM": {
-      "name": "台积电",
-      "price": 444.23,
-      "change_pct": -6.98,
-      "open": 468.51,
-      "high": 443.47,
-      "low": 476.79,
-      "prev_close": 467.67,
-      "volume": 18534835,
-      "turnover": 15447826,
-      "pe": 12.03,
-      "ytd": null,
-      "datetime": "2026-07-02 09:41:58"
-    },
-    "VRT": {
-      "name": "Vertiv",
-      "price": 311.42,
-      "change_pct": -6.99,
-      "open": 327.21,
-      "high": 309.51,
-      "low": 379.87,
-      "prev_close": 325.8,
-      "volume": 6259817,
-      "turnover": 8444655,
-      "pe": 4.08,
-      "ytd": null,
-      "datetime": "2026-07-02 09:42:40"
-    },
-    "PWR": {
-      "name": "Quanta Services",
-      "price": 691.4,
-      "change_pct": -3.96,
-      "open": 709.07,
-      "high": 687.62,
-      "low": 788.75,
-      "prev_close": 709.07,
-      "volume": 1240843,
-      "turnover": 1874581,
-      "pe": 7.41,
-      "ytd": null,
-      "datetime": "2026-07-02 09:47:54"
-    },
-    "CEG": {
-      "name": "Constellation",
-      "price": 236.5,
-      "change_pct": -4.78,
-      "open": 248.27,
-      "high": 228.63,
-      "low": 411.46,
-      "prev_close": 246.98,
-      "volume": 8689486,
-      "turnover": 3855931,
-      "pe": 11.52,
-      "ytd": null,
-      "datetime": "2026-07-02 09:44:11"
-    },
-    "VST": {
-      "name": "Vistra",
-      "price": 153.16,
-      "change_pct": -3.45,
-      "open": 157.32,
-      "high": 151.05,
-      "low": 219.14,
-      "prev_close": 156,
-      "volume": 5090071,
-      "turnover": 4607887,
-      "pe": 6.05,
-      "ytd": null,
-      "datetime": "2026-07-02 09:42:41"
-    },
-    "MU": {
-      "name": "美光科技",
-      "price": 1032.28,
-      "change_pct": -10.57,
-      "open": 1097,
-      "high": 1032.2,
-      "low": 1255,
-      "prev_close": 1082.01,
-      "volume": 51328072,
-      "turnover": 61090408,
-      "pe": 44.8,
-      "ytd": null,
-      "datetime": "2026-07-02 09:46:01"
-    },
-    "SNDK": {
-      "name": "Sandisk",
-      "price": 2032.22,
-      "change_pct": -10.62,
-      "open": 2129.98,
-      "high": 2002.05,
-      "low": 2354.39,
-      "prev_close": 2085.17,
-      "volume": 11056533,
-      "turnover": 11881882,
-      "pe": 30.49,
-      "ytd": null,
-      "datetime": "2026-07-02 09:38:50"
-    },
-    "MSFT": {
-      "name": "微软",
-      "price": 384.28,
-      "change_pct": 3.02,
-      "open": 388.83,
-      "high": 374.89,
-      "low": 551.89,
-      "prev_close": 380.83,
-      "volume": 48065801,
-      "turnover": 61227430,
-      "pe": 16.85,
-      "ytd": null,
-      "datetime": "2026-07-02 09:35:17"
-    },
-    "AMZN": {
-      "name": "亚马逊",
-      "price": 241.7,
-      "change_pct": 1.41,
-      "open": 244.9,
-      "high": 234.9,
-      "low": 278.56,
-      "prev_close": 239.75,
-      "volume": 53829851,
-      "turnover": 82483346,
-      "pe": 8.49,
-      "ytd": null,
-      "datetime": "2026-07-02 08:13:39"
-    },
-    "GOOGL": {
-      "name": "谷歌",
-      "price": 361.21,
-      "change_pct": 1.07,
-      "open": 362.97,
-      "high": 356.43,
-      "low": 408.39,
-      "prev_close": 358.37,
-      "volume": 26736429,
-      "turnover": 45443112,
-      "pe": 13.25,
-      "ytd": null,
-      "datetime": "2026-07-02 08:14:13"
-    },
-    "META": {
-      "name": "Meta",
-      "price": 612.91,
-      "change_pct": 8.81,
-      "open": 628.28,
-      "high": 595.1,
-      "low": 794.15,
-      "prev_close": 607.91,
-      "volume": 45536306,
-      "turnover": 17207812,
-      "pe": 27.94,
-      "ytd": null,
-      "datetime": "2026-07-02 09:49:55"
-    },
-    "SMH": {
-      "name": "半导体ETF-SMH",
-      "price": 620.46,
-      "change_pct": -5.4,
-      "open": 639.89,
-      "high": 618.62,
-      "low": 671.83,
-      "prev_close": 634.35,
-      "volume": 13424666,
-      "turnover": 11942723,
-      "pe": null,
-      "ytd": null,
-      "datetime": "2026-07-02 09:49:28"
-    },
-    "SOXX": {
-      "name": "半导体ETF-SOXX",
-      "price": 599.7,
-      "change_pct": -6.41,
-      "open": 622.89,
-      "high": 597.88,
-      "low": 655.95,
-      "prev_close": 616.82,
-      "volume": 9983015,
-      "turnover": 10450376,
-      "pe": null,
-      "ytd": null,
-      "datetime": "2026-07-02 09:38:57"
-    },
-    "QQQ": {
-      "name": "纳斯达克ETF-QQQ",
-      "price": 725.17,
-      "change_pct": -1.52,
-      "open": 731.92,
-      "high": 724.6,
-      "low": 747.84,
-      "prev_close": 729.19,
-      "volume": 40803791,
-      "turnover": 48081238,
-      "pe": null,
-      "ytd": null,
-      "datetime": "2026-07-02 09:48:12"
-    }
+#!/usr/bin/env node
+/**
+ * 美股行情数据生成器
+ * 从新浪财经拉取美股实时/收盘数据，输出 JSON
+ *
+ * 用法：
+ *   node us-stock-data.js              → 输出到 stdout
+ *   node us-stock-data.js --file       → 写入 stock-data-us.json
+ *   node us-stock-data.js --serve      → 启动 HTTP 服务
+ *   node us-stock-data.js --github     → 推送 stock-data-us.json 到 GitHub repo
+ */
+
+const https = require('https');
+const http = require('http');
+const fs = require('fs');
+const path = require('path');
+const { execSync } = require('child_process');
+
+// ========== 美股代码映射 ==========
+// key: 自定义短码, value: 新浪代码 (gb_xxx)
+const US_STOCKS = {
+  // 🧠 芯片制造·GPU/CPU/代工
+  NVDA: 'gb_nvda',
+  AMD: 'gb_amd',
+  INTC: 'gb_intc',
+  AVGO: 'gb_avgo',
+  MRVL: 'gb_mrvl',
+  ARM: 'gb_arm',
+  TSM: 'gb_tsm',
+
+  // ⚡ 算力基建·电力·散热
+  VRT: 'gb_vrt',
+  PWR: 'gb_pwr',
+  CEG: 'gb_ceg',
+  VST: 'gb_vst',
+
+  // 💾 存储
+  MU: 'gb_mu',
+  SNDK: 'gb_sndk',
+
+  // ☁️ AI云平台
+  MSFT: 'gb_msft',
+  AMZN: 'gb_amzn',
+  GOOGL: 'gb_googl',
+  META: 'gb_meta',
+
+  // 📦 ETF
+  SMH: 'gb_smh',
+  SOXX: 'gb_soxx',
+  QQQ: 'gb_qqq',
+};
+
+function fetchSinaUS() {
+  return new Promise((resolve, reject) => {
+    const codes = Object.values(US_STOCKS).join(',');
+    const url = `https://hq.sinajs.cn/list=${codes}`;
+
+    https.get(url, {
+      headers: {
+        'Referer': 'https://finance.sina.com.cn',
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)'
+      }
+    }, (res) => {
+      const chunks = [];
+      res.on('data', chunk => chunks.push(chunk));
+      res.on('end', () => {
+        try {
+          const buf = Buffer.concat(chunks);
+          // Sina US data is UTF-8 (not GBK like A shares)
+          const text = buf.toString('utf-8');
+          resolve(parseSinaUSData(text));
+        } catch (e) {
+          reject(e);
+        }
+      });
+    }).on('error', reject);
+  });
+}
+
+/**
+ * Parse Sina US stock data format:
+ * var hq_str_gb_nvda="NVIDIA Corp,194.7150,-2.15,2026-06-25 22:31:48,-4.2850,200.0800,200.8000,192.1300,236.2900,151.2100,45479962,150534925,4716192015000,6.57,29.640000,0.00,0.00,0.25,0.00,24221000000,69,0.0000,0.00,0.00,,Jun 25 10:31AM EDT,199.0000,...";
+ *
+ * Fields: name,price,change_pct,datetime,change_abs,open,prev_close,high,low,52w_high,52w_low,volume,...,pe,...,market_cap,...
+ */
+function parseSinaUSData(text) {
+  const stocks = {};
+  const lines = text.split('\n');
+
+  // Build reverse map: gb_code -> shortCode
+  const revMap = {};
+  for (const [sc, code] of Object.entries(US_STOCKS)) {
+    revMap[code] = sc;
   }
+
+  for (const line of lines) {
+    const m = line.match(/hq_str_(gb_\w+)="([^"]+)"/);
+    if (!m) continue;
+    const gbCode = m[1];
+    const parts = m[2].split(',');
+
+    const shortCode = revMap[gbCode];
+    if (!shortCode) continue;
+
+    // Known name mapping (sina returns garbled CJK)
+    const nameMap = {
+      'NVDA': '英伟达', 'AMD': 'AMD', 'INTC': '英特尔',
+      'AVGO': '博通', 'MRVL': '美满电子', 'ARM': 'ARM控股',
+      'TSM': '台积电',
+      'VRT': 'Vertiv', 'PWR': 'Quanta Services',
+      'CEG': 'Constellation', 'VST': 'Vistra',
+      'MU': '美光科技', 'SNDK': 'Sandisk',
+      'MSFT': '微软', 'AMZN': '亚马逊',
+      'GOOGL': '谷歌', 'META': 'Meta',
+      'SMH': '半导体ETF-SMH', 'SOXX': '半导体ETF-SOXX',
+      'QQQ': '纳斯达克ETF-QQQ',
+    };
+
+    const rawName = cleanName(parts[0]);
+    const name = nameMap[shortCode] || rawName || shortCode;
+    const price = parseFloat(parts[1]) || 0;
+    const changePct = parseFloat(parts[2]) || 0;
+    const dateTime = parts[3] || '';
+    const prevClose = parseFloat(parts[5]) || 0;
+    const open = parseFloat(parts[6]) || 0;
+    const high = parseFloat(parts[7]) || 0;
+    const low = parseFloat(parts[8]) || 0;
+    const volume = parseInt(parts[10]) || 0;
+    const turnover = parseFloat(parts[11]) || 0;
+    const pe = parseFloat(parts[13]) || null;
+    const ytd = parseFloat(parts[15]) || null;
+
+    stocks[shortCode] = {
+      name,
+      price: Math.round(price * 100) / 100,
+      change_pct: changePct,
+      open: Math.round(open * 100) / 100,
+      high: Math.round(high * 100) / 100,
+      low: Math.round(low * 100) / 100,
+      prev_close: Math.round(prevClose * 100) / 100,
+      volume,
+      turnover: Math.round(turnover * 100) / 100,
+      pe,
+      ytd,
+      datetime: dateTime,
+    };
+  }
+
+  const now = new Date();
+  const beijing = new Date(now.getTime() + 8 * 60 * 60 * 1000);
+  const timeStr = beijing.toISOString().slice(0, 16).replace('T', ' ');
+
+  return {
+    update_time: timeStr + ' (北京时间)',
+    provider: '新浪财经',
+    stocks,
+  };
+}
+
+function cleanName(name) {
+  // Sina sometimes returns garbled Chinese names for US stocks
+  // Use mapping table for known names
+  const nameMap = {
+    'NVDA': '英伟达', 'AMD': 'AMD', 'INTC': '英特尔',
+    'AVGO': '博通', 'MRVL': '美满电子', 'ARM': 'ARM控股',
+    'TSM': '台积电',
+    'VRT': 'Vertiv', 'PWR': 'Quanta Services',
+    'CEG': 'Constellation', 'VST': 'Vistra',
+    'MU': '美光科技', 'SNDK': 'Sandisk',
+    'MSFT': '微软', 'AMZN': '亚马逊',
+    'GOOGL': '谷歌', 'META': 'Meta',
+    'SMH': '半导体ETF-SMH', 'SOXX': '半导体ETF-SOXX',
+    'QQQ': '纳斯达克ETF-QQQ',
+  };
+
+  // Try to decode the name from sina, fallback to mapping
+  if (name && name.length > 1 && !name.includes('?') && !name.includes('锟')) {
+    return name;
+  }
+
+  return nameMap[Object.keys(US_STOCKS).find(k => US_STOCKS[k] === gbCodeFromName(name))]
+    || name || 'Unknown';
+}
+
+function gbCodeFromName(name) {
+  return name;
+}
+
+// ========== HTTP 服务 ==========
+function startServer(port = 5189) {
+  const server = http.createServer((req, res) => {
+    res.setHeader('Access-Control-Allow-Origin', '*');
+    res.setHeader('Access-Control-Allow-Methods', 'GET, OPTIONS');
+    res.setHeader('Access-Control-Allow-Headers', '*');
+    res.setHeader('Cache-Control', 'no-cache');
+
+    if (req.method === 'OPTIONS') {
+      res.writeHead(204);
+      return res.end();
+    }
+
+    if (req.url === '/stock-data-us.json' || req.url === '/api/us-stocks') {
+      fetchSinaUS()
+        .then(data => {
+          res.writeHead(200, { 'Content-Type': 'application/json; charset=utf-8' });
+          res.end(JSON.stringify(data, null, 2));
+        })
+        .catch(err => {
+          console.error('Fetch error:', err.message);
+          res.writeHead(502, { 'Content-Type': 'application/json' });
+          res.end(JSON.stringify({ error: err.message }));
+        });
+      return;
+    }
+
+    res.writeHead(404);
+    res.end('Not Found');
+  });
+
+  server.listen(port, '0.0.0.0', () => {
+    console.log(`📈 US Stock Data Server running at:`);
+    console.log(`   http://localhost:${port}/stock-data-us.json`);
+    console.log(`   http://localhost:${port}/api/us-stocks`);
+  });
+}
+
+// ========== Git 推送 ==========
+async function gitPush(data) {
+  // gh-pages might be checked out elsewhere
+  const possibleDirs = [
+    __dirname,
+    '/private/tmp/gh-pages',
+  ];
+
+  let repoDir = __dirname;
+  let stockDir = path.join(repoDir, 'stock');
+
+  // Check if gh-pages is checked out in /private/tmp
+  try {
+    const remote = execSync('git remote get-url origin', { cwd: '/private/tmp/gh-pages' }).toString().trim();
+    if (remote.includes('wilson-0018')) {
+      repoDir = '/private/tmp/gh-pages';
+      stockDir = path.join(repoDir, 'stock');
+    }
+  } catch (_) {}
+
+  try {
+    if (!fs.existsSync(stockDir)) {
+      fs.mkdirSync(stockDir, { recursive: true });
+    }
+
+    const jsonPath = path.join(stockDir, 'stock-data-us.json');
+    const existingJsonPath = path.join(stockDir, 'stock-data.json');
+
+    // Merge into stock-data.json (existing A-share + US stocks)
+    let mergedData = {};
+    if (fs.existsSync(existingJsonPath)) {
+      try {
+        mergedData = JSON.parse(fs.readFileSync(existingJsonPath, 'utf-8'));
+      } catch (_) {}
+    }
+
+    mergedData.update_time = data.update_time;
+    mergedData.provider = data.provider;
+    if (!mergedData.stocks) mergedData.stocks = {};
+    Object.keys(data.stocks).forEach(k => {
+      mergedData.stocks[k] = data.stocks[k];
+    });
+
+    // Write both files
+    fs.writeFileSync(jsonPath, JSON.stringify(data, null, 2), 'utf-8');
+    fs.writeFileSync(existingJsonPath, JSON.stringify(mergedData, null, 2), 'utf-8');
+
+    execSync('git add stock/', { cwd: repoDir });
+    const status = execSync('git status --porcelain', { cwd: repoDir }).toString().trim();
+
+    if (status) {
+      execSync('git commit -m "auto: update US stock data ' + new Date().toISOString().slice(0, 16).replace('T', ' ') + '"', { cwd: repoDir });
+      execSync('git push origin gh-pages', { cwd: repoDir });
+      console.log(`✅ Pushed to gh-pages:stock/stock-data-us.json`);
+    } else {
+      console.log('ℹ️  No changes to commit');
+    }
+    return true;
+  } catch (e) {
+    throw e;
+  }
+}
+
+// ========== Main ==========
+async function main() {
+  const args = process.argv.slice(2);
+
+  if (args.includes('--serve')) {
+    const portIdx = args.indexOf('--port');
+    const port = portIdx >= 0 ? parseInt(args[portIdx + 1]) : 5189;
+    startServer(port);
+    return;
+  }
+
+  try {
+    const data = await fetchSinaUS();
+
+    if (args.includes('--gitpush')) {
+      await gitPush(data);
+    } else if (args.includes('--file')) {
+      const outputPath = args.includes('--output')
+        ? args[args.indexOf('--output') + 1]
+        : path.join(__dirname, 'stock-data-us.json');
+      fs.writeFileSync(outputPath, JSON.stringify(data, null, 2), 'utf-8');
+      console.log(`✅ Written to ${outputPath}`);
+    } else {
+      console.log(JSON.stringify(data, null, 2));
+    }
+  } catch (e) {
+    console.error('❌ Error:', e.message);
+    process.exit(1);
+  }
+}
+
+if (require.main === module) {
+  main();
 }
