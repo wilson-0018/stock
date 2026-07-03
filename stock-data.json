@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-03 07:04 (北京时间)",
+  "update_time": "2026-07-03 08:05 (北京时间)",
   "provider": "新浪财经",
   "stocks": {
     "NVDA": {
@@ -10,11 +10,11 @@
       "high": 192.35,
       "low": 236.29,
       "prev_close": 197.14,
-      "volume": 142199770,
+      "volume": 142385543,
       "turnover": 158795289,
       "pe": 6.57,
       "ytd": null,
-      "datetime": "2026-07-03 07:04:40"
+      "datetime": "2026-07-03 07:59:58"
     },
     "AMD": {
       "name": "AMD",
@@ -24,11 +24,11 @@
       "high": 506,
       "low": 584.73,
       "prev_close": 538.16,
-      "volume": 28182549,
+      "volume": 28228928,
       "turnover": 32292474,
       "pe": 3.08,
       "ytd": null,
-      "datetime": "2026-07-03 07:04:32"
+      "datetime": "2026-07-03 07:59:58"
     },
     "INTC": {
       "name": "英特尔",
@@ -38,11 +38,11 @@
       "high": 117.63,
       "low": 142.35,
       "prev_close": 128.92,
-      "volume": 124784489,
+      "volume": 125021708,
       "turnover": 127349495,
       "pe": -0.62,
       "ytd": null,
-      "datetime": "2026-07-03 07:04:38"
+      "datetime": "2026-07-03 07:59:59"
     },
     "AVGO": {
       "name": "博通",
@@ -52,11 +52,11 @@
       "high": 356.43,
       "low": 494.35,
       "prev_close": 365.73,
-      "volume": 26765641,
+      "volume": 26788850,
       "turnover": 30931209,
       "pe": 6.19,
       "ytd": null,
-      "datetime": "2026-07-03 07:04:38"
+      "datetime": "2026-07-03 08:05:18"
     },
     "MRVL": {
       "name": "美满电子",
@@ -66,11 +66,11 @@
       "high": 237.2,
       "low": 329.88,
       "prev_close": 269.5,
-      "volume": 38502645,
+      "volume": 38579896,
       "turnover": 61727177,
       "pe": 2.95,
       "ytd": null,
-      "datetime": "2026-07-03 07:04:37"
+      "datetime": "2026-07-03 07:59:59"
     },
     "ARM": {
       "name": "ARM控股",
@@ -80,11 +80,11 @@
       "high": 309.74,
       "low": 452.7,
       "prev_close": 337.24,
-      "volume": 7564887,
+      "volume": 7575956,
       "turnover": 11089137,
       "pe": 0.85,
       "ytd": null,
-      "datetime": "2026-07-03 07:03:52"
+      "datetime": "2026-07-03 08:05:06"
     },
     "TSM": {
       "name": "台积电",
@@ -94,11 +94,11 @@
       "high": 429.5,
       "low": 479,
       "prev_close": 450.54,
-      "volume": 18396521,
+      "volume": 18424814,
       "turnover": 16206970,
       "pe": 12.03,
       "ytd": null,
-      "datetime": "2026-07-03 07:04:18"
+      "datetime": "2026-07-03 08:05:27"
     },
     "VRT": {
       "name": "Vertiv",
@@ -108,11 +108,11 @@
       "high": 296.45,
       "low": 379.87,
       "prev_close": 309.81,
-      "volume": 5903917,
+      "volume": 5906777,
       "turnover": 8612449,
       "pe": 4.08,
       "ytd": null,
-      "datetime": "2026-07-03 07:04:31"
+      "datetime": "2026-07-03 08:05:39"
     },
     "PWR": {
       "name": "Quanta Services",
@@ -122,11 +122,11 @@
       "high": 650.17,
       "low": 788.64,
       "prev_close": 693.07,
-      "volume": 1273673,
+      "volume": 1273810,
       "turnover": 1914528,
       "pe": 7.41,
       "ytd": null,
-      "datetime": "2026-07-03 07:03:38"
+      "datetime": "2026-07-03 07:56:06"
     },
     "CEG": {
       "name": "Constellation",
@@ -136,11 +136,11 @@
       "high": 236.68,
       "low": 411.46,
       "prev_close": 238.1,
-      "volume": 4268837,
+      "volume": 4270995,
       "turnover": 4345022,
       "pe": 11.52,
       "ytd": null,
-      "datetime": "2026-07-03 07:04:21"
+      "datetime": "2026-07-03 08:04:01"
     },
     "VST": {
       "name": "Vistra",
@@ -150,11 +150,11 @@
       "high": 148.5,
       "low": 219.14,
       "prev_close": 153.95,
-      "volume": 4254606,
+      "volume": 4255892,
       "turnover": 4622593,
       "pe": 6.05,
       "ytd": null,
-      "datetime": "2026-07-03 07:03:06"
+      "datetime": "2026-07-03 08:00:06"
     },
     "MU": {
       "name": "美光科技",
@@ -164,11 +164,11 @@
       "high": 950.28,
       "low": 1255,
       "prev_close": 1041.5,
-      "volume": 61594077,
+      "volume": 61844373,
       "turnover": 61673241,
       "pe": 44.8,
       "ytd": null,
-      "datetime": "2026-07-03 07:04:40"
+      "datetime": "2026-07-03 07:59:59"
     },
     "SNDK": {
       "name": "Sandisk",
@@ -178,11 +178,11 @@
       "high": 1693,
       "low": 2354.39,
       "prev_close": 2043.8,
-      "volume": 17301367,
+      "volume": 17346188,
       "turnover": 12028688,
       "pe": 30.49,
       "ytd": null,
-      "datetime": "2026-07-03 07:04:39"
+      "datetime": "2026-07-03 08:05:22"
     },
     "MSFT": {
       "name": "微软",
@@ -192,11 +192,11 @@
       "high": 383.7,
       "low": 551.89,
       "prev_close": 384.48,
-      "volume": 42161731,
+      "volume": 42194408,
       "turnover": 62883334,
       "pe": 16.85,
       "ytd": null,
-      "datetime": "2026-07-03 07:04:31"
+      "datetime": "2026-07-03 07:59:56"
     },
     "AMZN": {
       "name": "亚马逊",
@@ -206,11 +206,11 @@
       "high": 241.08,
       "low": 278.56,
       "prev_close": 241.61,
-      "volume": 48271807,
+      "volume": 48298137,
       "turnover": 84347525,
       "pe": 8.49,
       "ytd": null,
-      "datetime": "2026-07-03 07:04:10"
+      "datetime": "2026-07-03 07:59:59"
     },
     "GOOGL": {
       "name": "谷歌",
@@ -220,11 +220,11 @@
       "high": 353.42,
       "low": 408.39,
       "prev_close": 359.48,
-      "volume": 25985896,
+      "volume": 25999346,
       "turnover": 45629140,
       "pe": 13.25,
       "ytd": null,
-      "datetime": "2026-07-03 07:04:27"
+      "datetime": "2026-07-03 08:05:36"
     },
     "META": {
       "name": "Meta",
@@ -234,11 +234,11 @@
       "high": 580.42,
       "low": 794.15,
       "prev_close": 607.9,
-      "volume": 21726739,
+      "volume": 21750517,
       "turnover": 20627002,
       "pe": 27.94,
       "ytd": null,
-      "datetime": "2026-07-03 07:04:33"
+      "datetime": "2026-07-03 08:05:37"
     },
     "SMH": {
       "name": "半导体ETF-SMH",
@@ -248,11 +248,11 @@
       "high": 582.6,
       "low": 671.83,
       "prev_close": 622.58,
-      "volume": 21311865,
+      "volume": 21334058,
       "turnover": 12190229,
       "pe": null,
       "ytd": null,
-      "datetime": "2026-07-03 07:04:34"
+      "datetime": "2026-07-03 07:59:58"
     },
     "SOXX": {
       "name": "半导体ETF-SOXX",
@@ -262,11 +262,11 @@
       "high": 554.91,
       "low": 655.95,
       "prev_close": 601.24,
-      "volume": 16125865,
+      "volume": 16150385,
       "turnover": 10328186,
       "pe": null,
       "ytd": null,
-      "datetime": "2026-07-03 07:04:40"
+      "datetime": "2026-07-03 07:59:34"
     },
     "QQQ": {
       "name": "纳斯达克ETF-QQQ",
@@ -276,11 +276,11 @@
       "high": 707.56,
       "low": 747.84,
       "prev_close": 725.58,
-      "volume": 51009067,
+      "volume": 51086080,
       "turnover": 47626752,
       "pe": null,
       "ytd": null,
-      "datetime": "2026-07-03 07:04:38"
+      "datetime": "2026-07-03 08:05:41"
     }
   }
 }
